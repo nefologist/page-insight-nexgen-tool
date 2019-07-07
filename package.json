@@ -1,0 +1,32 @@
+{
+  "name": "ds_internal_img_compression_tool_cmd_line",
+  "version": "1.0.0",
+  "description": "cmd line interface - nex gen image detection and image compression on file server based on domain provided",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "image",
+    "compression",
+    "internal",
+    "tool"
+  ],
+  "author": "M\u001b[\u001b[2~master mind",
+  "license": "MIT",
+  "dependencies": {
+    "compress-images": "^1.5.8",
+    "config": "^3.1.0",
+    "filesize": "^4.1.2",
+    "ftp": "^0.3.10",
+    "imagemin-jpegtran": "^6.0.0",
+    "imagemin-mozjpeg": "^8.0.0",
+    "imagemin-pngquant": "^8.0.0",
+    "imagemin-webp": "^5.1.0",
+    "jshint": "^2.10.2",
+    "node-fetch": "^2.6.0"
+  },
+  "devDependencies": {
+    "imagemin": "^6.1.0"
+  }
+}

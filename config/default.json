@@ -1,0 +1,10 @@
+{
+   "fs_config": {
+      "host": "fs_link",
+      "port": 21,
+      "user": "fs_uname",
+      "password": "fs_pwd"
+   },
+   "bckup_loc": "backups",
+   "env": "development"
+}
